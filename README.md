@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Margaret Chigozirim @Chigozirim-web
+- 👋 Hi, I’m Margaret @Chigozirim-web
 - I’m interested in tech, puzzles, and reading (📚)
 - 🌱 I’m a software engineer committed to solving users' problems, creating systems that scale efficiently, and optimizing performance.
 
