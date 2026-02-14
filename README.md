@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Margaret Chigozirim
-- I’m interested in tech, puzzles, trivia, and reading (📚)
+- 👋 Hi, I’m Margaret Chigozirim.
+- I’m interested in tech, puzzles, trivia, and reading.
 - 🌱 I’m a software engineer who enjoys solving practical problems, improving products, and building tools that make processes simpler and more accessible.
 - Always open to connecting on engineering, education, or mission-driven tech work.
 
